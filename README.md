@@ -21,12 +21,12 @@
 
 ## 💻 Tech Stack  
 
-- **`Python`** ![Python](https://img.icons8.com/color/30/000000/python.png)
-- **`Git`** ![Git](https://img.icons8.com/color/30/000000/git.png)  
-- **`Bash`** ![Bash](https://img.icons8.com/plasticine/30/000000/bash.png)
-- **`PostgreSQL`** ![PostgreSQL](https://img.icons8.com/color/30/000000/postgreesql.png)  
-- **`Nginx`** ![Nginx](https://img.icons8.com/color/30/000000/nginx.png)  
-- **`MongoDB`** ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)  
-- **`Postman`** ![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)  
-- **`Docker`** ![Docker](https://img.icons8.com/color/30/000000/docker.png)
+-  ![Python](https://img.icons8.com/color/30/000000/python.png) **`Python`**
+-  ![Git](https://img.icons8.com/color/30/000000/git.png) **`Git`**
+-  ![Bash](https://img.icons8.com/plasticine/30/000000/bash.png) **`Bash`**
+-  ![PostgreSQL](https://img.icons8.com/color/30/000000/postgreesql.png)  **`PostgreSQL`**
+-  ![Nginx](https://img.icons8.com/color/30/000000/nginx.png)  **`Nginx`**
+-  ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)  **`MongoDB`**
+-  ![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)  **`Postman`**
+-  ![Docker](https://img.icons8.com/color/30/000000/docker.png) **`Docker`**
 
