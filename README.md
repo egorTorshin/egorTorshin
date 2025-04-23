@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub!
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN6aGc3ZnZ1cnl0dTdmbGJxcnQ3cGViaWhjMTl1YWZyMWU0dWN5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)
 
-<!--
-**egorTorshin/egorTorshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+# 👨‍💻 About me
+## 💡 Main
+- 🎓 2nd year Bachelor's degree student in Software Engineering at Innopolis University (2023-2027)
+- 💼 Q Deep Optimization Department | Quantum Computing laboratory | Dovuz Innopolis University Python lecturer 
+- 🔍 I am actively looking for open-source projects for contributing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Directions of self-development
+- The use of quantum computers in solving optimization problems
+- Backend projects using LLM-agents
+- Any new interesting learning direction
+
+
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorTorshin&layout=compact&theme=dracula)
+
+
+## 💻 Tech Stack  
+
+- **`Python`** ![Python](https://img.icons8.com/color/30/000000/python.png)
+- **`Git`** ![Git](https://img.icons8.com/color/30/000000/git.png)  
+- **`Bash`** ![Bash](https://img.icons8.com/plasticine/30/000000/bash.png)
+- **`PostgreSQL`** ![PostgreSQL](https://img.icons8.com/color/30/000000/postgreesql.png)  
+- **`Nginx`** ![Nginx](https://img.icons8.com/color/30/000000/nginx.png)  
+- **`MongoDB`** ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)  
+- **`Postman`** ![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)  
+- **`Docker`** ![Docker](https://img.icons8.com/color/30/000000/docker.png)
+
