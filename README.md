@@ -11,7 +11,7 @@
 
 ## 🌱 Directions of self-development
 - The use of quantum computers in solving optimization problems
-- Backend projects using LLM-agents
+- Backend projects with LLM-agents
 - Any new interesting learning direction
 
 
