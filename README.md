@@ -1,5 +1,5 @@
 # 🚀 Welcome to My GitHub!
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN6aGc3ZnZ1cnl0dTdmbGJxcnQ3cGViaWhjMTl1YWZyMWU0dWN5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)
+![ban](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFlNTJqdDAyeHRoaTNpeGZ5eXFnbGFoOTh0M3Y3dXR4d3BxZ3BxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
 
 </div>
 
